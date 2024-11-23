@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:899379,100:787878&height=160&text=KimMinSoo&animation=twinkling&fontColor=000000&fontSize=60&stroke=CDCDCD&strokeWidth=1" />
 </div>
-
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Coding test...💻 </h2>
 <div align="left">
   
@@ -18,6 +17,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <a href="https://emoji.gg/emoji/2397-rolling-bulbasaur"><img src="https://cdn3.emoji.gg/emojis/2397-rolling-bulbasaur.gif" width="30px" height="30px" alt="rolling_bulbasaur"></a>
   <br/></div>
 </div>
 
