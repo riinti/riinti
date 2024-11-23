@@ -5,7 +5,7 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti)](https://solved.ac/riinti)
   <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm"/>
 <div/>
-<br/>
+  
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> studying...✏️ </h2>
   <div style="margin: ; text-align: left;" "text-align: left;"> 
