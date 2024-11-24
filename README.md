@@ -10,17 +10,23 @@
 <div/>
   
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> studying...✏️ </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying...✏️ </h2>
   <div style="margin: ; text-align: left;" "text-align: left;"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-    <a href="https://emoji.gg/emoji/2397-rolling-bulbasaur"><img src="https://cdn3.emoji.gg/emojis/2397-rolling-bulbasaur.gif" width="30px" height="30px" alt="rolling_bulbasaur"></a>
   <br/></div>
 </div>
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact...📫 </h2>
+    <div style="text-align: left;"> <a href=mailto:minsoo051218@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minsoo051218@gmail.com"> </a>
+    </div>
+    
+</div>
+    
 
     
 <!--
