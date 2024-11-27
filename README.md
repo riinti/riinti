@@ -1,31 +1,41 @@
-<div align= "center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:899379,100:787878&height=160&text=KimMinSoo&animation=twinkling&fontColor=FFFFFF&fontSize=60&stroke=899379&strokeWidth=2" />
 </div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Coding test...💻 </h2>
-<div align="left">
-  
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti)](https://solved.ac/riinti)
-  <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm"/>
-<div/>
-  
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying...✏️ </h2>
-  <div style="margin: ; text-align: left;" "text-align: left;"> 
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Coding test...💻</h2>
+  <div>
+    <a href="https://solved.ac/riinti">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti" alt="Solved.ac 프로필" />
+    </a>
+    <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm" alt="Solved.ac 랭크" />
+  </div>
+</div>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Studying...✏️</h2>
+  <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <br>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <br/></div>
+  </div>
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact...📫 </h2>
-    <div style="text-align: left;"> <a href=mailto:minsoo051218@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minsoo051218@gmail.com"> </a>
-    </div>
-    
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact...📫</h2>
+  <div>
+    <a href="mailto:minsoo051218@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minsoo051218@gmail.com" alt="Gmail">
+    </a>
+    <a href=https://www.instagram.com/minso__o12/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minso__o12/"> 
+    </a>      
+  </div>
 </div>
+
+
     
 
     
