@@ -7,7 +7,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Git hub...🤓</h2>
   <div>
     <a href="https://github.com/riinti">
-      <img src="https://github-readme-stats.vercel.app/api?username=riinti&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,4a4e69,9a8c98,c9ada7&title_color=fff&text_color=fff" alt="riinti's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=riinti&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9a8c98,c9ada7,f2e9e4&title_color=fff&text_color=fff" alt="riinti's github stats" />
     </a>
   </div>
 </div>
