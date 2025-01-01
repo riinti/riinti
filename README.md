@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:899379,100:787878&height=160&text=KimMinSoo&animation=twinkling&fontColor=FFFFFF&fontSize=60&stroke=899379&strokeWidth=2" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22223b,100:4a4e69&height=160&text=KimMinSoo&animation=twinkling&fontColor=f2e9e4&fontSize=60&stroke=22223b&strokeWidth=2" />
 </div>
 
 
@@ -7,20 +7,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Git hub...🤓</h2>
   <div>
     <a href="https://github.com/riinti">
-      <img src="https://github-readme-stats.vercel.app/api?username=riinti&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,787878,899379&title_color=fff&text_color=fff" alt="riinti's github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=riinti&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9a8c98,c9ada7,f2e9e4&title_color=fff&text_color=fff" alt="riinti's github stats" />
     </a>
-  </div>
-</div>
-
-
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Coding test...💻</h2>
-  <div>
-    <a href="https://solved.ac/riinti">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti" alt="Solved.ac 프로필" />
-    </a>
-    <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm" alt="Solved.ac 랭크" />
   </div>
 </div>
 
@@ -48,7 +36,15 @@
   </div>
 </div>
 
-
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Coding test...💻</h2>
+  <div>
+    <a href="https://solved.ac/riinti">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti" alt="Solved.ac 프로필" />
+    </a>
+    <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm" alt="Solved.ac 랭크" />
+  </div>
+</div>
     
 
     
