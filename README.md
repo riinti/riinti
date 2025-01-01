@@ -42,7 +42,6 @@
     <a href="https://solved.ac/riinti">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riinti" alt="Solved.ac 프로필" />
     </a>
-    <img src="http://mazandi.herokuapp.com/api?handle=riinti&theme=warm" alt="Solved.ac 랭크" />
   </div>
 </div>
     
