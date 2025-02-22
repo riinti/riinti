@@ -31,7 +31,7 @@
     <a href="mailto:minsoo051218@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minsoo051218@gmail.com" alt="Gmail">
     </a>
-    <a href=https://www.instagram.com/minso__o12/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minso__o12/"> 
+    <a href=https://www.instagram.com/minso__o12/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/imminso__o/"> 
     </a>      
   </div>
 </div>
